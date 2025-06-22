@@ -2,4 +2,10 @@ streamlit
 opencv-contrib-python
 numpy
 pillow
-mediapipe
+pandas
+matplotlib
+scikit-learn
+sentence-transformers
+faiss-cpu
+datasets
+streamlit-option-menu
